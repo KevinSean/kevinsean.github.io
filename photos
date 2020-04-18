@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kevin Sean</title>
+  <meta charset="UTF-8">
+  <link red="stylesheet" href="styles1.css">
+</head>
+<body>
+<header>
+<details>
+    <summary>Click Here for more information on Downloading Pictures</summary>
+    <ol>
+      <li>First right click the image</li>
+      <li>After you see a bunch of options open, click open image in new tab</li>
+      <li>Go to the new tab and right click the image again</li>
+      <li>Click save image as, after that you simply save the image</li>
+    </ol>
+    <video width="1000px" muted autoplay>
+        <source src="videos/example.mp4" type="video/mp4">
+    </video>
+</details>
+</header>
+<div class="main">
+  <img src="https://media.discordapp.net/attachments/695434560330137632/695436090630340688/3a96ea6c92a00e1688c189bfa25c1480.png" height="200px"/>
+  
+  <img src="https://cdn.discordapp.com/attachments/695434560330137632/695435241766256711/CBbtLbnVIAEeyPj.png" height="200px"/>
+  
+  <img src="https://cdn.discordapp.com/attachments/695434560330137632/695435229476683867/abbec4f56c01bb883f9f2e75228e2b716334b13e3643-QC26yz_fw658.png" height="200px"/>
+  <br>
+  <img src="https://cdn.discordapp.com/attachments/695434560330137632/695435161713770557/ERTLsYcVAAAAXFt.png" height="200px"/>
+ 
+  <img src="https://cdn.discordapp.com/attachments/695434560330137632/695435132542386276/80597123_140841094038088_4239432553721042397_n.png" height="200px"/>
+ 
+  <img src="https://cdn.discordapp.com/attachments/695434560330137632/695435101734961273/wait__by_niwazekisho_dcr5ht3-250t.png" height="200px"/>
+  <br>
+  <img src="https://cdn.discordapp.com/attachments/695434560330137632/695435053693403246/81385101_1012893232412672_5845762891222639759_n.png" height="200px"/>
+ 
+  <img src="https://cdn.discordapp.com/attachments/695434560330137632/695435082101424238/75458008_563581067811853_1514117187930710267_n.png" height="200px"/>
+ 
+  <img src="https://cdn.discordapp.com/attachments/695434560330137632/695435041232388196/images.png" height="200px"/>
+
+  <img src="https://cdn.discordapp.com/attachments/695434560330137632/695435025004494918/79726347_1346217505580849_6750924743406094028_n.png" height="200px"/>
+</div>
+<div class="footer">
+
+</div>
+</body>
+</html>
